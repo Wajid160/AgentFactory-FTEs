@@ -1,126 +1,55 @@
-# 🏭 AgentFactory-FTEs
+# 🏭 Agent Factory — Digital FTEs
 
-> **Building Digital Full-Time Equivalents (FTEs) that work 24/7**  
-> Following the [Agent Factory](https://agentfactory.panaversity.org/) methodology
+Building production-ready Digital Full-Time Employees (FTEs) following the [Agent Factory](https://agentfactory.panaversity.org) methodology by Panaversity.
 
----
-
-## 📊 Current Progress
-
-| Stage | Focus | Status |
-|-------|-------|--------|
-| **Chapter 1** | Agent Factory Paradigm | ✅ Complete (18/18 Quiz) |
-| **Chapter 2** | AIFF Foundation & Standards | 🔄 Next |
-| **Chapter 3** | Billion Dollar Strategy | ⏳ Pending |
-| **Chapter 4** | Nine Pillars | ⏳ Pending |
-| **Domain Selection** | After Part 1 Complete | 🔓 Unlocked |
+This repository contains my implementations of AI agents designed to operate as autonomous digital workers — reliable, testable, and deployable AI systems that can handle real business tasks 24/7.
 
 ---
 
-## 🎯 Mission
-
-Transform domain expertise into autonomous AI agents (Digital FTEs) that generate recurring revenue.
-
-**The Vision:**
-```
-Domain Expertise → SKILL.md → Digital FTE → $500-2K/month Revenue
-```
-
----
-
-## 🧠 Key Learnings (Chapter 1)
-
-### Two Paths Framework
-- **General Agents** (Claude Code, Gemini CLI) = The Builder
-- **Custom Agents** (OpenAI SDK, Claude SDK) = The Product
-- **Insight:** General Agents BUILD Custom Agents
-
-### The Role Shift
-- Developer as **Typist** → Developer as **Orchestrator**
-- Human 10% (strategic) + AI 90% (mechanical)
-- Value = Intelligence directed effectively
-
-### Digital FTE Economics
-| Metric | Human FTE | Digital FTE |
-|--------|-----------|-------------|
-| Availability | 40 hrs/week | 168 hrs/week |
-| Monthly Cost | $4-8K | $500-2K |
-| Scaling | Linear | Exponential |
-
-### Four Revenue Models
-1. **Subscription** ($500-2K/mo) - Managed Digital FTE
-2. **Success Fee** - Pay per result
-3. **License** - Sell SKILL.md to enterprises
-4. **Marketplace** - OpenAI Apps, volume-based
-
----
-
-## 📁 Repository Structure
+## 📂 Structure
 
 ```
 AgentFactory-FTEs/
-├── README.md                    # This file
-├── docs/
-│   ├── learnings/               # Chapter notes
-│   │   └── chapter-1.md         # Agent Factory Paradigm
-│   └── DOMAIN_EXPLORATION.md    # Domain selection framework
-└── skills/                      # Agent skills (coming)
-    └── [domain-specific]/
+├── docs/       # Documentation, specs, and design decisions
+├── skills/     # Composable agent skills (MCP-compatible)
+└── README.md
 ```
 
 ---
 
-## 🎓 Learning Path
+## 🧠 Core Concepts
 
-Following the Agent Factory book:
-
-### Part 1: AI-Driven Development
-- [x] Introduction
-- [x] Chapter 1: Agent Factory Paradigm
-- [ ] Chapter 2: AIFF Foundation
-- [ ] Chapter 3: Billion Dollar Strategy
-- [ ] Chapter 4: Nine Pillars
-- [ ] **→ Domain Selection**
-
-### Part 2-4: Building Skills
-- [ ] Spec-Driven Development
-- [ ] MCP Servers
-- [ ] SKILL.md Creation
-
-### Part 5-7: Production Agents
-- [ ] Custom Agent Development
-- [ ] Deployment & Scaling
-- [ ] Revenue Generation
+| Concept | Description |
+|---------|-------------|
+| **Digital FTE** | An AI agent reliable enough to replace a full-time employee's repetitive tasks |
+| **Spec-Driven Development** | Agent behavior defined by specifications, not just code |
+| **MCP Integration** | Using Model Context Protocol for universal tool access |
+| **Agent Skills** | Composable, reusable capabilities that agents can leverage |
 
 ---
 
-## 📈 Revenue Goals
+## 🛠️ Tech Stack
 
-| Timeline | Target |
-|----------|--------|
-| Week 6 | First beta tester |
-| Week 9 | First $100 earned |
-| Week 12 | $500/month |
-| Week 16 | $1-2K MRR |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-191919?style=flat)
+![MCP](https://img.shields.io/badge/MCP_Protocol-000000?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## 🔗 Connect
+## 📚 Learning Source
 
-| Platform | Link |
-|----------|------|
-| **LinkedIn** | [Wajid Javed](https://linkedin.com/in/wajidjaved) |
-| **X/Twitter** | [@wajidjaved](https://x.com/wajidjaved) |
-| **Upwork** | [Profile](https://upwork.com/freelancers/wajidjaved) |
+This project follows the **Agent Factory** book — a spec-driven blueprint for building and monetizing Digital FTEs. The book covers:
+- AI-Native Development principles
+- Spec-Driven Development methodology  
+- Multi-agent architectures
+- Production deployment patterns
+- Monetization strategies for AI agents
 
----
-
-## 📚 Resources
-
-- [Agent Factory Book](https://agentfactory.panaversity.org/)
-- [OpenAI Agents SDK](https://github.com/openai/openai-agents-python)
-- [Model Context Protocol](https://modelcontextprotocol.io/)
+📖 [Read the book](https://agentfactory.panaversity.org)
 
 ---
 
-*Building in public. Learning the Agent Factory way.*
+## 📫 Contact
+
+**Wajid Javed** — [LinkedIn](https://www.linkedin.com/in/wajidjaved160/) | [YouTube](https://youtube.com/@PhotiqAI) | [Portfolio](https://wajid-javed-portfolio.vercel.app/)
